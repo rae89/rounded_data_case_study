@@ -1,0 +1,1 @@
+This case study examines rounded data using bayesian analysis.
